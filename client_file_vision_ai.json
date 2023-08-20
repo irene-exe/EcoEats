@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ht6-2023-eco-eats",
+  "private_key_id": "b25e9eba4c46398ac9bc615fcab5e149c9fa76a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0Pl/tG/1Xu2+V\n+B+yGIvod47g1K+0m9qbj5/De2+GUGjfB6PHoEUgo3QMTptDuaxDcsDj3tI8BhBh\nQPywPO78MFMeVQvPNe0cIVIYLElHwgtwcxHtARwQPFGlkDqkd/CDZf62EUlHstLE\ndj3ghPgml0CIwFDBmrUJGdYwNmrkQl1N9V6Mvb5UwSN+vsbvlQtuZwWAqUvjAwQj\n7Hpe761MYSL/buvTrxUExs3bmTm2dpYH7jPr9c7FvmWwg1jh0ZKMKB+U2jG75miU\nf7DwQvQQwKd+xLiGL1BSbADznXQl+D52QtDmgvPpR+btfSKELSNdV/Q7FSjpn+zd\nNspxjxQ7AgMBAAECggEAPIC/lIkTtpJtd4rtoMvKkwMnC+N5A4hZjmRcvbK+kfiF\n62/WE1mCOt2DQ+pTBh3abF2l0BfovEtQzkSRTdt2YWMbU5A6wZiZehrZQtIC2zqQ\nunN17fe0YuLMiWXruW+lZYYkRRtyXMXzKA2E4cvgvJuDByR/Ny3mXSK2GkL6CJqJ\nUdgh1f65nNUpLLo6du2fAAPXx48i/A/DBI8VbxBBRSG2xtXQoCYaZ88++TVCXKQV\nbqTId2d+DmmuxKDGGtdNCWiFni1l994yBtTgJ9eSP84Ll+6XBLGtWe8teaH2v0kq\n1WUrQkkgd5qkrekDFnXFiIfpMASq4tCdzfYlchLb8QKBgQDuroJ8Nw4sZlcRZRTY\nPqjr1wOkJFWdeU6FE1NBRhXmsV2mqVGhnG/EDR7LG5ITdbnWZBaVF1GFNWVIg9JA\nQmh3opn4oz4yYr4RppqoFVzK7l8hKu9yuov2gEmRJ8sTb5PupsnYkKBsUtUICzoJ\nC9DsdADj69dCh/OFPqEAsvp5CQKBgQDBUmJOJid7LLiMwSApNhIYbWF/XhXERr05\nHJtLY3hWEoBcvF9e1jjZ8j/LEu0rU+XoTW+S3aA7e/yQS3QTTyJyhKsmpQzQwEUq\nVh2l8dyhBlsbr+/dD2RBTnH+TcQPWyXg4YtrJsM6sblr/IHDoYWDj2evOUjf5+M1\nEt+GvJZIIwKBgCIF4jfOqUiO9g5WuFfy5qVnqu809rdR2W2CybVeRjTyR4VAUZCV\n+iCaNi+BqJr5hxoWflmWT1qLt/pUQB5E2RtkpEobCvynsqxVcWpQUT/kJs9VjXhv\nOxBSTSpR39LPbujwAYnLY/LNA+z3nLg5ZPivuIjEz5R+SKpPuSeeW7HxAoGANTJo\nXrzdDGYH+qOCKBT68cHXnGbVcodMtpSKnzol+PlqXRpw2/Xy+vZQW58/qDaUA1Kb\nqzxVRUke/M3miRGzlvOu7Rlp51+hKL89tVZSsfS/yWSmipwbqGTftWzM0LTyPWmT\nJc8q1dHmBjMbuiuOQ9+IVo1a4lI7EXW6EKeAayUCgYB5A41nj7AaYxfLdlG9RRtd\njIjKlNRWWfGWkVEfsuKzJ1J+5sIznD+l3RqeSwUhNgYYrbY32bGgzrUvSjnX69Xo\noGcH2vCvtAx34Ky/kbNykGWs3kMQEidtTprsroid2oMdXoA8iWNfyS+YLfqu1z1k\nzQD0Q80Lb6rNbsYe21EM4Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ht62023ocr-api@ht6-2023-eco-eats.iam.gserviceaccount.com",
+  "client_id": "115540119073565819955",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ht62023ocr-api%40ht6-2023-eco-eats.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
